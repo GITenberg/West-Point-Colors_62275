@@ -1,0 +1,26 @@
+_repo: West-Point-Colors_62275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Anna Bartlett
+    aliases:
+    - Warner, A. B. (Anna Bartlett)
+    - Lothrop, Amy
+    birthdate: 1824
+    deathdate: 1915
+    gutenberg_agent_id: '7605'
+    url: http://www.gutenberg.org/2009/agents/7605
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Bartlett_Warner
+description: ''
+gutenberg_issued: '2020-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: West Point Colors
+url: http://www.gutenberg.org/ebooks/62275
